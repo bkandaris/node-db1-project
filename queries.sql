@@ -28,8 +28,6 @@
 
 -- Update Bilbo Baggins record so that the postal code changes to "11122"
 
--- Not working?
-
 -- UPDATE "Customers"
 -- SET "PostalCode" = '11122'
 -- WHERE "ContactName" = 'Bilbo Baggins';
